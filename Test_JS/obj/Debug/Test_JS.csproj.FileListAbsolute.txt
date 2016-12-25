@@ -1,0 +1,6 @@
+C:\Users\tnhuu\Desktop\Test_JS\Test_JS\bin\Test_JS.dll.config
+C:\Users\tnhuu\Desktop\Test_JS\Test_JS\bin\Test_JS.dll
+C:\Users\tnhuu\Desktop\Test_JS\Test_JS\bin\Test_JS.pdb
+C:\Users\tnhuu\Desktop\Test_JS\Test_JS\obj\Debug\Test_JS.csprojResolveAssemblyReference.cache
+C:\Users\tnhuu\Desktop\Test_JS\Test_JS\obj\Debug\Test_JS.dll
+C:\Users\tnhuu\Desktop\Test_JS\Test_JS\obj\Debug\Test_JS.pdb
